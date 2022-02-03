@@ -1,0 +1,23 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Slika uporabljena za testiranje}}{6}{figure.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Rezultat kompresije pri parametri k=64 in n=50}}{7}{figure.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Rezultat kompresije pri parametri k=16 in n=50}}{7}{figure.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Izmerjeni časi izvajanja serijske implmentacije algoritma}}{8}{figure.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces Izmerjeni časi izvajanja paralelne implementacija algoritma na CPE}}{9}{figure.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Izmerjeni časi izvajanja paralelne implementacija algoritma na GPE}}{10}{figure.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Pohitritev paralelnega algoritma na CPE v primerjavi z serijskim}}{11}{figure.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {8}{\ignorespaces Učinkovitost paralelizacije algoritma na CPE}}{12}{figure.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {9}{\ignorespaces Primerjava časa izvajanja paralelnega algoritma na CPE glede na število uporabljenih niti}}{13}{figure.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {10}{\ignorespaces Pohitritev paralelnega algoritma na GPE v primerjavi z serijskim}}{14}{figure.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11}{\ignorespaces Primerjava vse implementaciji algoritmov}}{15}{figure.11}%
